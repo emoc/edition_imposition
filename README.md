@@ -4,13 +4,13 @@ L'imposition est un terme d'imprimerie. L'opération consiste à placer plusieur
 
 ## Brochure A5 de 16 pages vers A5, A6, A7
 
-Passer d'une brochure A5 dont les pages se suivent à différentes impositions pour produire une version imprimable au format A5, A6 ou A7 qui respecte les cahiers.  
+Passer d'une brochure A4 dont les pages se suivent à différentes impositions pour produire une version imprimable au format A5, A6 ou A7 qui respecte les cahiers.  
 
 Des petits dessins pour rendre tout ça plus clair :
 
-**Brochure originale en A5**
+**Brochure originale en A4**
 
-![16 pages A5](./assets/16_pages_a5.png)
+![16 pages A4](./assets/16_pages_a4.png)
 
 **Imposition en A5 sur 4 feuillets**
 
