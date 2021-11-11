@@ -24,7 +24,7 @@ script bash : [16_pages_montage_version_imprimable_a5.sh](./brochure_a5_16_pages
 
 ![16 pages A5](./assets/16_pages_imposition_a6_2_feuillets.png)
 
-script bash : [16_pages_montage_version_imprimable_a6.sh](./brochure_a5_16_pages_vers_a5_a6_a7/ 16_pages_montage_version_imprimable_a6.sh)  
+script bash : [16_pages_montage_version_imprimable_a6.sh](./brochure_a5_16_pages_vers_a5_a6_a7/16_pages_montage_version_imprimable_a6.sh)  
 à imprimer en format portrait, recto-verso, bords longs
 
 **Imposition en A7 sur 1 feuillet**
