@@ -42,6 +42,10 @@ D'un fichier pdf exporté depuis Scribus à un fichier pdf comprenant 4 exemplai
 
 script bash : [4_flyers_sur_un_pdf_a4.sh](./4_flyers_sur_un_a4/4_flyers_sur_un_pdf_a4.sh)   
 
+## Badges 32 mm
+
+Template(s) pour éditer 20 badges sur un A4
+
 ## Quelques valeurs utiles
 
 A4 paysage @ 300 DPI : 3496 x 2480 (à quelques pixels près, les calculs donnent 3508 x 2480 mais les logiciels diffèrent)  
