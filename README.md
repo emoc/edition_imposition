@@ -24,7 +24,7 @@ script bash : [16_pages_montage_version_imprimable_a5.sh](./brochure_a5_16_pages
 
 ![16 pages A5](./assets/16_pages_imposition_a6_2_feuillets.png)
 
-script bash : [16_pages_montage_version_imprimable_a6.sh](./brochure_a5_16_pages_vers_a5_a6_a7/ 16_pages_montage_version_imprimable_a6.sh)  
+script bash : [16_pages_montage_version_imprimable_a6.sh](./brochure_a5_16_pages_vers_a5_a6_a7/16_pages_montage_version_imprimable_a6.sh)  
 
 à imprimer en format portrait, recto-verso, bords longs
 
@@ -45,6 +45,14 @@ script bash : [4_flyers_sur_un_pdf_a4.sh](./4_flyers_sur_un_a4/4_flyers_sur_un_p
 ## Badges 32 mm
 
 Template(s) pour éditer 20 badges sur un A4
+
+## Brochure A5 12 pages sur feuillets A4
+
+Monter une brochure imprimable sur feuillets A4 de 12 pages A5 @ 150 dpi, orientation portrait
+14.85 x 21 cm @ 150 DPI : 874 x 1240 pixels
+impression : recto-verso, bord courts, sans adaptation
+
+script bash : [brochure_A5_12_pages_sur_feuillets_A4.sh](./brochure_A5_12_pages_sur_feuillets_A4/brochure_A5_12_pages_sur_feuillets_A4.sh)  
 
 ## Quelques valeurs utiles
 
