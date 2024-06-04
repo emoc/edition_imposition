@@ -48,8 +48,8 @@ Template(s) pour éditer 20 badges sur un A4
 
 ## Brochure A5 12 pages sur feuillets A4
 
-Monter une brochure imprimable sur feuillets A4 de 12 pages A5 @ 150 dpi, orientation portrait
-14.85 x 21 cm @ 150 DPI : 874 x 1240 pixels
+Monter une brochure imprimable sur feuillets A4 de 12 pages A5 @ 150 dpi, orientation portrait  
+14.85 x 21 cm @ 150 DPI : 874 x 1240 pixels  
 impression : recto-verso, bord courts, sans adaptation
 
 script bash : [brochure_A5_12_pages_sur_feuillets_A4.sh](./brochure_A5_12_pages_sur_feuillets_A4/brochure_A5_12_pages_sur_feuillets_A4.sh)  
